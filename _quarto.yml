@@ -7,7 +7,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Research Experiences.qmd
+  page-footer:
+      right: "&copy; 2024, Lingxi Zhang"
 
 format:
   html:

@@ -1,11 +1,34 @@
 ---
-title: "Personal website"
+title: "Lingxi Zhang"
+about:
+  template: trestles
+  image: IMG_9340.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/lingxiz34
+    - text: Email
+      url: "mailto:lingxiz34@g.ucla.edu"
+    - text: CV
+      url: "Lingxi Zhang's CV.pdf"
 ---
 
-This is a Quarto website.
+Lingxi Zhang is a fourth-year student at the University of California, Los Angeles, double majoring in Sociology and Statistics and Data Science
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+## Education
+
+University of California, Los Angeles | Los Angeles, CA
+Bachelor of Arts in Sociology & Statistics and Data Science | Expected June 2025
+
+## Research interest
+
+Work and Labor Market, Poverty, Social Inequality and Stratification, Immigration, Health Outcomes
+
+## Experience
+
+Undergraduate Research Center | Research Assistant | June 2023 – June 2024
+
+Sociology Department | Research Assistant | September 2023 – Present
+
+DOWNLOAD[CV](/Lingxi Zhang's CV.pdf)

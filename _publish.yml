@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: e70d421c-7a2c-4dce-bc25-7b7cf6eb1d71
+      url: 'https://lingxizhang.netlify.app/'

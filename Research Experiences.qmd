@@ -1,0 +1,23 @@
+---
+title: "Research Project"
+toc: false
+---
+
+
+## Research Project 1
+
+This is an one-year independent research that examines the differential impacts of various working conditions on the mental and
+physical health of low-wage workers in two types of occupations–food delivery and retail–in China. Click [here](/research projects/project1.qmd) to see more details
+
+
+## Research Project 2
+
+Data Analysis on the fiscal health rank in California (on-going project in Stats 140XP class)
+Click [here](/research projects/project2.qmd) to see more details
+
+## Research Project 3
+
+On-going project that analyzes the relationship between the distance of children with parents and the work-related mental and physical health of children using the National Longitudinal Dataset. 
+
+
+
