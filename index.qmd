@@ -2,7 +2,7 @@
 title: "Lingxi Zhang"
 about:
   template: trestles
-  image: IMG_9340.jpg
+  image: IMG_9340 (1).jpg
   links:
     - icon: github
       text: Github
@@ -31,4 +31,4 @@ Undergraduate Research Center | Research Assistant | June 2023 – June 2024
 
 Sociology Department | Research Assistant | September 2023 – Present
 
-DOWNLOAD[CV](/Lingxi Zhang's CV.pdf)
+DOWNLOAD [CV](/Lingxi Zhang's CV.pdf)
